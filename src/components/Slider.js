@@ -246,7 +246,7 @@ Slider.propTypes = {
   padding: PropTypes.string,
   margin: PropTypes.string,
   hideArrowsOnNoSlides: PropTypes.bool,
-  DotsWrapper: PropTypes.func,
+  DotsWrapper: PropTypes.object,
 };
 
 export default Slider;
